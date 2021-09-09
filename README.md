@@ -17,3 +17,6 @@ Manzana dibujada por nati
 
 Pera dibujada por Chachi
 ![fran](https://user-images.githubusercontent.com/89702911/132764387-3d49bc2d-1530-4641-8577-7361339185d4.jpg)
+
+Manzana dibujada por Santi
+![mi_atacazo_artistico (2)](https://user-images.githubusercontent.com/89702911/132764662-f0445c9a-f7d1-416f-9eaf-c60c62067eda.jpg)
