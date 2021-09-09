@@ -8,3 +8,9 @@ Piña dibujada por h-kobaya
 
 Pera dibujada por feña
 ![feña](https://user-images.githubusercontent.com/89702911/132761557-920f7e1a-1e29-4138-b7a1-4d9fc3af5cc2.jpeg)
+
+Piña dibujada por Almendra
+![almendra](https://user-images.githubusercontent.com/89702911/132763094-c1a79f64-1885-466c-8633-c603d6885985.jpg)
+
+Manzana dibujada por nati
+![WhatsApp Image 2021-09-09 at 17 57 58](https://user-images.githubusercontent.com/89702911/132763152-f0d8fefd-7ed7-41b1-85d5-641c86297409.jpeg)
