@@ -14,3 +14,6 @@ Piña dibujada por Almendra
 
 Manzana dibujada por nati
 ![WhatsApp Image 2021-09-09 at 17 57 58](https://user-images.githubusercontent.com/89702911/132763152-f0d8fefd-7ed7-41b1-85d5-641c86297409.jpeg)
+
+Pera dibujada por Chachi
+![fran](https://user-images.githubusercontent.com/89702911/132764387-3d49bc2d-1530-4641-8577-7361339185d4.jpg)
