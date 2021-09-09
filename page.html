@@ -9,7 +9,7 @@
         <link href="style.css" rel="stylesheet" />
     </head>
     <body>
-        <header><h1>Dibuja un </h1></header>
+        <header><h1>Dibuja una </h1></header>
         <footer>
             <div id="back"><a href="index.html">back</a></div>
             <div id="controles"></div>
@@ -39,6 +39,9 @@
                 saveCanvas("mi_atacazo_artistico", "jpg");
             }
           
+            function windowResized() {
+                resizeCanvas(windowWidth, windowHeight);
+            }
         </script>
     </body>
 </html>
