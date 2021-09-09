@@ -21,7 +21,7 @@
             document.querySelector("h1").textContent += que;
             document.querySelector("a").textContent += que;
             function setup() {
-                var d = select("#descarga");
+                var d = select("#aqui");
                 d.mousePressed(artemania);
                 createCanvas(windowWidth, windowHeight).position(0, 0).style("z-index", -1);
                 background(255);
@@ -38,9 +38,7 @@
             function artemania() {
                 saveCanvas("mi_atacazo_artistico", "jpg");
             }
-            function windowResized() {
-                resizeCanvas(windowWidth, windowHeight);
-            }
+          
         </script>
     </body>
 </html>
